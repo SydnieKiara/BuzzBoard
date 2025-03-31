@@ -46,11 +46,13 @@ BuzzBoard is a campus-centric app designed to enhance student engagement, stream
 ### 2. Screen Archetypes
 
 - Login Screen 
-  - Users can login with their student emails or username as well as putting in their password 
+  - Users can login with their student emails or username and put in their password 
 - Registration Screen
-  - User can create account with two different account types: student, business/organization
+  - User can create account with their student email 
+  - User choose a custom password
+  - Choose between student or business account
 - Home Screen
-  - From tab bar users can click on messaging, post, favorites, or profile page
+   - From tab bar users can click on messaging, post, favorites, or profile page
   - Users should be able to scroll to see all post that have been posted. 
   - Users can click on a button in the top left corner and select from a list of dorm, organization, cafe, and trending to appear on their home page timeline. 
   - User can search key words or usernames at the top of the screen.
@@ -76,7 +78,10 @@ BuzzBoard is a campus-centric app designed to enhance student engagement, stream
 - Chat Screen
     - Users will be able to see message from people they are friends with. 
     - Users will be able to click on a button in the top left corner to create a new message between different users as well as creating group messages.
+    - Users will be able to pin their favorite conversations 
 - Settings
+- Users will be able to change profile name
+- User will be able to chane profle pictures 
 
 
 ### 3. Navigation
@@ -108,7 +113,14 @@ BuzzBoard is a campus-centric app designed to enhance student engagement, stream
    -> Picture gallery 
    -> Poll upload
    -> Reminder
-       -> Homepage
+   -> Post upload
+   -> Drafts
+    -> Homepage
+    
+- Favorites
+ -> Event Calendar 
+ -> Favorites list
+ -> Event view
 ## Wireframes
 <img src="https://i.imgur.com/rVUmHfq.jpeg" width=600>
 
