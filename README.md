@@ -138,7 +138,7 @@ BuzzBoard is a campus-centric app designed to enhance student engagement, stream
 
 [Add screenshot of your Project Board with three milestones visible in
 this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://i.imgur.com/CoLWfP1.png" width=600>
 
 ## Issue cards
 
