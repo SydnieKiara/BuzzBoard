@@ -158,7 +158,7 @@ this section]
 2. Current State of Signup/Registration Page:
 <img src="https://i.imgur.com/wMJfGL5.jpeg" width=600>
 
-3. Current State of Add a Post Tab in Navigation Bar:
+3. Current State of Add a Post Tab in Navigation Bar and Reminder Option for Posts:
 <img src="https://i.imgur.com/beu6wzG.gif" width=600>
 
 
