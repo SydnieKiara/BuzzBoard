@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="grey">#a6a6a6</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#f3ca2a</color>
+    <string name="app_name">BuzzBoard-Homepage</string>
+    <string name="gcm_defaultSenderId" translatable="false">197173800002</string>
+    <string name="google_api_key" translatable="false">AIzaSyBYaO7YnsmPsjZ-tNVJF1kdcGV6REoJUaE</string>
+    <string name="google_app_id" translatable="false">1:197173800002:android:91f03f4b9851a09ac8d1db</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBYaO7YnsmPsjZ-tNVJF1kdcGV6REoJUaE</string>
+    <string name="google_storage_bucket" translatable="false">loginsignupbuzzboard.firebasestorage.app</string>
+    <string name="project_id" translatable="false">loginsignupbuzzboard</string>
+    <string name="title_activity_signup">signup</string>
+    <style name="Base.Theme.BuzzBoardHomepage" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.BuzzBoardHomepage" parent="Base.Theme.BuzzBoardHomepage"/>
+</resources>
