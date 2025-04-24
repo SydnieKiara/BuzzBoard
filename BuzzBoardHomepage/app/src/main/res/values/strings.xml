@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BuzzBoard-Homepage</string>
+    <string name="title_activity_signup">signup</string>
 </resources>

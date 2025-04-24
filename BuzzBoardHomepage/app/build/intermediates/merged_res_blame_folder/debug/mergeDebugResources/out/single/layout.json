@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.buzzboard_homepage.app-mergeDebugResources-71:/layout/activity_main.xml",
+        "source": "com.example.buzzboard_homepage.app-main-74:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.buzzboard_homepage.app-mergeDebugResources-71:/layout/activity_login.xml",
+        "source": "com.example.buzzboard_homepage.app-main-74:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.buzzboard_homepage.app-mergeDebugResources-71:/layout/activity_signup.xml",
+        "source": "com.example.buzzboard_homepage.app-main-74:/layout/activity_signup.xml"
+    }
+]

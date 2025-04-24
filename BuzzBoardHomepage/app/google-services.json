@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197173800002",
+    "project_id": "loginsignupbuzzboard",
+    "storage_bucket": "loginsignupbuzzboard.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197173800002:android:91f03f4b9851a09ac8d1db",
+        "android_client_info": {
+          "package_name": "com.example.buzzboard_homepage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYaO7YnsmPsjZ-tNVJF1kdcGV6REoJUaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
